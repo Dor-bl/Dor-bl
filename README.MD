@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dor, a Mobile Automation developer.:
+# Hi there! 👋 I'm Dor, a Mobile Automation developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dor-bl)
 
