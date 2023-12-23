@@ -2,5 +2,6 @@
 
 ![dor-bl](https://komarev.com/ghpvc/?username=Dor-bl)
 
-Current caps: 
+Capabilities: 
+
 ![.NET Badge](https://img.shields.io/badge/.NET%20Core-blue)
