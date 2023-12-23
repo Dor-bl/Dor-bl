@@ -8,3 +8,4 @@ Capabilities:
 
 ![Python Badge](https://img.shields.io/badge/Python-blue)
 
+![Selenium Badge](https://img.shields.io/badge/Selenium-Test%20Automation-brightgreen)
