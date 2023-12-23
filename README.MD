@@ -14,7 +14,7 @@
 
 ![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-yellow)
 
-![Selenium Badge](https://img.shields.io/badge/Selenium-Test%20Automation-brightgreen)
+![Selenium Badge](https://img.shields.io/badge/Selenium-Web%20Automation-brightgreen)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/dor-blayzer/)
