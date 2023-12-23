@@ -1,8 +1,12 @@
-### Hey! My name is Dor.  :space_invader:
+# Hi there! 👋 I'm Dor, a Mobile Automation developer.:
 
-![dor-bl](https://komarev.com/ghpvc/?username=Dor-bl)
+![Profile Views](https://komarev.com/ghpvc/?username=Dor-bl)
 
-Capabilities: 
+## About Me
+- Passionate about everything that can be automated.
+- I am working on the Appium dotnet project in my spare time.
+
+## Capabilities: 
 
 ![.NET Badge](https://img.shields.io/badge/.NET-purple)
 
@@ -11,3 +15,7 @@ Capabilities:
 ![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-yellow)
 
 ![Selenium Badge](https://img.shields.io/badge/Selenium-Test%20Automation-brightgreen)
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/dor-blayzer/)
+- [Email](dblayzer@gmail.com)
