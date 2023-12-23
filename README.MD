@@ -18,7 +18,7 @@
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/dor-blayzer/)
-- [Email](dblayzer@gmail.com)
+- [Email](mailto:dblayzer@gmail.com)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dor-bl&show_icons=true&count_private=true)
