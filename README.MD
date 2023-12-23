@@ -8,6 +8,6 @@ Capabilities:
 
 ![Python Badge](https://img.shields.io/badge/Python-blue)
 
-![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-brightyellow)
+![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-darkyellow)
 
 ![Selenium Badge](https://img.shields.io/badge/Selenium-Test%20Automation-brightgreen)
