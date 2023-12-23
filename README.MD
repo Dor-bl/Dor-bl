@@ -4,7 +4,7 @@
 
 Capabilities: 
 
-![.NET Badge](https://img.shields.io/badge/.NET%20Core-purple)
+![.NET Badge](https://img.shields.io/badge/.NET-purple)
 
 ![Python Badge](https://img.shields.io/badge/Python-blue)
 
