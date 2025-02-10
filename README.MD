@@ -8,13 +8,11 @@
 
 ## Capabilities: 
 
-![.NET Badge](https://img.shields.io/badge/.NET-purple)
-
-![Python Badge](https://img.shields.io/badge/Python-blue)
-
-![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-yellow)
-
-![Selenium Badge](https://img.shields.io/badge/Selenium-Web%20Automation-brightgreen)
+![.NET Badge](https://img.shields.io/badge/.NET-purple)  
+![Python Badge](https://img.shields.io/badge/Python-blue)  
+![Appium Badge](https://img.shields.io/badge/Appium-Mobile%20Automation-yellow)  
+![Selenium Badge](https://img.shields.io/badge/Selenium-Web%20Automation-brightgreen)  
+![Robot Framework Badge](https://img.shields.io/badge/Robot%20Framework-Test%20Automation-red)  
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/dor-blayzer/)
