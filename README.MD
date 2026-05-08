@@ -19,7 +19,7 @@
 - Email: dblayzer [at] gmail [dot] com
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dor-bl&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dor-bl&show_icons=true)
 
 ## 🚀 Support My Work  
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Dor-bl?style=for-the-badge&color=purple)](https://github.com/sponsors/Dor-bl)
