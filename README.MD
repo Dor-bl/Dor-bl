@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dor
+# Hi there! 👋 I'm Dor
 Automation developer focused on building reliable test automation and tooling.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dor-bl)
