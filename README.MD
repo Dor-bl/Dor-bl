@@ -7,7 +7,7 @@ Automation developer focused on building reliable test automation and tooling.
 - Passionate about everything that can be automated.
 - Working on the Appium .NET project in my spare time.
 
-## 🧰 Tech Stack
+## 🧰 Technologies & Tools
 **Languages & Platforms**  
 ![.NET Badge](https://img.shields.io/badge/.NET-purple)
 ![Python Badge](https://img.shields.io/badge/Python-blue)
