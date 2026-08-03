@@ -18,7 +18,7 @@ Automation developer focused on building reliable test automation and tooling.
 ![Robot Framework Badge](https://img.shields.io/badge/Robot%20Framework-Test%20Automation-red)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dor-bl&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](./profile/streak.svg)
 
 ## 🤝 Contact
 - [LinkedIn](https://www.linkedin.com/in/dor-blayzer/)
