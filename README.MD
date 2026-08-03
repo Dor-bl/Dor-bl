@@ -5,7 +5,7 @@ Automation developer focused on building reliable test automation and tooling.
 
 ## 👨‍💻 About Me
 - Passionate about everything that can be automated.
-- Working on the Appium .NET project in my spare time.
+- Working on the [Appium .NET client](https://github.com/appium/dotnet-client) in my spare time.
 
 ## 🧰 Technologies & Tools
 **Languages & Platforms**  
